@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="parking-control" target="11" />
+      <module name="parking-control" target="10" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
