@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Parking-Control-Spring-Security.iml" filepath="$PROJECT_DIR$/.idea/Parking-Control-Spring-Security.iml" />
-      <module fileurl="file://$PROJECT_DIR$/parking-control-api-security/parking-control.iml" filepath="$PROJECT_DIR$/parking-control-api-security/parking-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parking-control-api-main/parking-control.iml" filepath="$PROJECT_DIR$/parking-control-api-main/parking-control.iml" />
     </modules>
   </component>
 </project>
